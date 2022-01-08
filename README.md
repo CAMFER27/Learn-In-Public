@@ -91,3 +91,5 @@ You can pick a different template and skin, for example:
 template: "online-cv"
 skin: "orange"
 ```
+
+This is my first correction!
